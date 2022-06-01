@@ -40,5 +40,10 @@ else:
     print("you Lose !")
         
 
-        
+def gameWin(comp, you):
+    if comp == you:
+        return None
+    elif comp ==="s"
+        if you== 'w'
+         return 
                 
